@@ -1,9 +1,19 @@
-h1{
-  font:serif;
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color:cadetblue;
 }
-h2{
-  font:sans-serif;
+h2 {
+  font-family: 'Courier New', Courier, monospace;
 }
-h3{
-  font:sans-serif;
+h3 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4 {
+  text-decoration: underline;
+}
+p {
+  font-family: 'Courier New', Courier, monospace;
+}
+figcaption {
+  color:blueviolet;
 }
